@@ -1,0 +1,5 @@
+[
+    {"title":"first todo","status":"todo"},
+    {"title":"second todo","status":"completed"},
+    {"title":"third todo","status":"todo"}
+]
